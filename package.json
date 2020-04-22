@@ -1,0 +1,29 @@
+{
+  "name": "ImageScraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "fs": "0.0.1-security",
+    "image-scraper": "^0.2.1",
+    "images-scraper": "^2.0.11",
+    "node-fetch": "^2.1.2",
+    "npm": "^6.4.1",
+    "opn": "^5.3.0",
+    "request": "^2.87.0",
+    "set-default-browser": "^1.0.1",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {
+    "casper": "^0.1.1",
+    "spooky": "^0.2.5",
+    "zombie": "^6.1.3"
+  }
+}
